@@ -6,3 +6,25 @@ Component1 As CanvasComponent:
     Y: =0
     ZIndex: =1
 
+    "InfoButtonCanvas1 As 'Information button'":
+        DisplayMode: =DisplayMode.Edit
+        Height: =32
+        Width: =32
+        X: =40
+        Y: =40
+        ZIndex: =1
+
+    "TabList1 As 'Tab list'.pcfdataset":
+        DisplayMode: =DisplayMode.Edit
+        Height: =45
+        Items: =Activities
+        Width: =280
+        X: =144
+        Y: =96
+        ZIndex: =2
+
+    Rectangle1 As rectangle:
+        X: =72
+        Y: =214
+        ZIndex: =3
+
