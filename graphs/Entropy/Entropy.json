@@ -9,14 +9,14 @@
     "Component1": 4,
     "Component1_1": 9,
     "Host": 3,
-    "InfoButtonCanvas1": 6,
-    "Rectangle1": 8,
-    "Screen1": 5,
-    "TabList1": 7
+    "InfoButtonCanvas1": 5,
+    "Rectangle1": 7,
+    "Screen1": 8,
+    "TabList1": 6
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "06/08/2023 01:29:36",
+  "HeaderLastSavedDateTimeUTC": "06/08/2023 01:31:40",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -108,12 +108,15 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0473239,
+    "AnalysisLoadTime": 0.0625749,
     "ControlCount": {
       "3496ed8e59944e1986e307e909686f38": 2,
+      "PowerApps_CoreControls_InfoButtonCanvas": 1,
+      "PowerApps_CoreControls_TabList": 1,
+      "rectangle": 1,
       "screen": 1
     },
-    "DeserializationLoadTime": 2.2363897
+    "DeserializationLoadTime": 1.8974337
   },
   "WasLocalDatabaseReferencesEmpty": false
 }
